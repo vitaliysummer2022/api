@@ -1,0 +1,14 @@
+1. Установить программу XAMPP (если не установлена)
+2. Запустить Apache и MySQL в панеле XAMPP
+3. Загрузить API с GitHub (https://github.com/vitaliysummer2022/api.git)
+4. Перенести тестируемый API в папку htdocs (находится в папке XAMPP)
+5. Открыть документацию (файл doc.html)
+6. Открыть Postman
+7. Приступить к отправке API-запросов
+
+Полезное видео:
+1. Установка XAMPP:                  https://youtu.be/hMSXRZH8OWo
+2. Инструкция по запуску API:        https://youtu.be/vgsQrwR3qmk
+3. Видео по отправке Country API:    https://youtu.be/dcG-kIk944E
+4. Запросы в Swagger Petstore, 1ч:   https://youtu.be/QsOT702PGkU
+5. Запросы в Swagger Petstore, 2ч:   https://youtu.be/K0AjDqYbQfY
