@@ -1,0 +1,32 @@
+[
+    {
+        "category": "picture",
+        "name": null,
+        "film": "Everything Everywhere All at Once"
+    },
+    {
+        "category": "actress",
+        "name": "Michelle Yeoh",
+        "film": "Everything Everywhere All at Once"
+    },
+    {
+        "category": "actor",
+        "name": "Brendan Fraser",
+        "film": "The Whale"
+    },
+    {
+        "category": "international film",
+        "name": null,
+        "film": "All Quiet On The Western Front"
+    },
+    {
+        "category": "costume",
+        "name": "Ruth Carter",
+        "film": "Black Panther: Wakanda Forever"
+    },
+    {
+        "category": "writing",
+        "name": "Sarah Polley",
+        "film": "Women Talking"
+    }
+]
