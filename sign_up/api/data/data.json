@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "first_name": "John",
+        "last_name": "Smith",
+        "job": "writer",
+        "phone": "700-008-5275",
+        "email": "test@test.com",
+        "country": "GB",
+        "about": "Molestias consequuntur nisi non quod"
+    },
+    {
+        "id": 2,
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "job": "singer",
+        "phone": "230-894-2912",
+        "email": "test2@test.com",
+        "country": "US",
+        "about": "Lorem ipsum nisi non sgasd"
+    }
+]
